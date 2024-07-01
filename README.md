@@ -8,9 +8,6 @@ This is a modern single-page application (SPA) designed for car enthusiasts and 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
