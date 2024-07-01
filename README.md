@@ -35,6 +35,6 @@ This is a modern single-page application (SPA) designed for car enthusiasts and 
    ```bash
    git clone https://github.com/davitosadze/btu-finals-davit-osadze
    cd btu-finals-davit-osadze
-   ```
    npm install
    npm start
+   ```
