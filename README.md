@@ -33,6 +33,8 @@ This is a modern single-page application (SPA) designed for car enthusiasts and 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/CarApp.git
-   cd CarApp
+   git clone https://github.com/davitosadze/btu-finals-davit-osadze
+   cd btu-finals-davit-osadze
    ```
+   npm install
+   npm start
